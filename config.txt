@@ -1,0 +1,13 @@
+*Edit game parameters here*
+*IMPORTANT: ONLY EDIT NUMBERS, VALUE LABELS ARE IMPORTANT FOR PARSING*
+*If program cant understand input it will default to side length of 8 and 10 mines
+*
+*minmum side length is: 2*
+*maximum side length is: 20*
+side length: 8
+*
+*minimum number of mines is: 1*
+*maximum number of mines is: (side length^2)-2 *
+number of mines: 10
+*
+*Note: any line starting in "*" will be ignored by program*
