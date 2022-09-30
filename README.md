@@ -1,5 +1,4 @@
 # Minesweeper
-A basic minesweeper game played in the terminal
 #### Currently being rewritten to include the following changes\:
 - Enter game parameters on program start start instead of using a config file
 - Dynamic board 2d array allocation (originally used an preallocated array of 100x100 that was filled with the appropriate number of Spaces)
